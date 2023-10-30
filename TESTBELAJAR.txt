@@ -1,0 +1,7 @@
+untuk checkin checkoutnya seperti ini:
+
+checkin :
+- belajar java dasar, loop & if condition
+checkout :
+- selesai belajar loop dan if condition
+- kendala, masih bingung antara for dan foreach
